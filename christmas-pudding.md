@@ -51,7 +51,7 @@ when you finally need it
   - put steamer in big pot
   - cover steamer in water
   - add 2 litres of water
-  - place pudding bowl on steamer 
+  - place pudding bowl on steamer
   - add water til it is about 2cm away from the top of the pudding bowl
   - take out pudding bowl
   - light the stove, let the water come to boiling while you are doing the rest

@@ -14,14 +14,13 @@ This a close approximation of versions 3 & 4 of the pudding
 
 ## ingredients
 ### fruit and nuts
-As a cross-check, this adds up to 1800g
 
-- almonds whole 70g
-- almonds slivered 30g
+- almonds whole 60g
+- almonds slivered 40g
 - currants 250g
-- ginger 150g (buderim naked or sub with crystalised)
-- glace cherries 150g
-- mixed peel 200g
+- ginger 150g (buderim naked or substitute with crystalised)
+- sour cherries (bottled or canned) 150g
+- lemon peel (home-made) 130g (substitue with mixed peel 200g)
 - prunes 350g
 - raisins 250g
 - sultanas 350g
@@ -36,7 +35,7 @@ As a cross-check, this adds up to 1800g
 - eggs 3
 - plain flour 500g
 - some reserve flour if you are using a cloth
-- rapadura sugar 250g (maybe less)
+- sugar (rapadurq/panela) 220g
 - rum 80g
 - water 250g
 - a bowl of water for soaking ginger
@@ -93,7 +92,7 @@ do these steps in order
 - stir until well mixed or until your arm is numb
 
 ### pudding steamer
-- make sure big pot is boiling
+- make sure big pot is boiling with 5 litres water
 - also have a kettle full of boiling water ready in case you need a top up
 - pour, scrape etc the mix into the pudding steamer
 - tie rope to pudding steamer handles to make a bigger handle
